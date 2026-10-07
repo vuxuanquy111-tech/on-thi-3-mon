@@ -1,0 +1,9 @@
+ÔN THI 3 MÔN – V4
+
+1. Upload toàn bộ file trong thư mục này lên GitHub Pages.
+2. Mở index.html trên web.
+3. Trên iPhone: mở trang bằng Safari > Chia sẻ > Thêm vào Màn hình chính.
+4. Dữ liệu lịch sử thi/câu sai lưu trên chính thiết bị bằng LocalStorage.
+
+Ngân hàng: VKQ 107 câu; VMH 140 câu; VCX 140 câu.
+Một số câu trong file nguồn có số phương án không đủ 4 hoặc không có đáp án in đậm; V4 giữ nguyên dữ liệu nguồn và không tự bịa đáp án. Các câu không có đáp án chuẩn được ghi “Không chấm” khi thi.
